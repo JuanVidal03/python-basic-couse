@@ -6,6 +6,8 @@ name001 = "Juan Vidal" # correct
 print(name)
 
 # wrong ways to create variables
+"""
 1name = "Juan Vidal" # incorrect
 first-name = "Juan Vidal" # incorrect
 name! = "Juan Vidal" # incorrect
+"""
