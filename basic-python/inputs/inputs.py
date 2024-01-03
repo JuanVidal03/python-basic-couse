@@ -9,4 +9,4 @@ print(f"The username: {name}")
 number = input("Type a number: ")
 result = int(float(number)) * 2
 
-print(result)
+print(f"{name} tu resultado es: {result}")
